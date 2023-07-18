@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @AbinayaM16
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AbinayaM16/AbinayaM16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I'm an aspiring Computer Science student.
+I spent most of my time, coding. 
+I'm obsessed with self-improvement books. 
+I got a gold batch in Python and Java on HackerRank and I'm also interested in web technologies. 
+One of my greatest work experiences is game development using Python at OurmateIT, Australia.
